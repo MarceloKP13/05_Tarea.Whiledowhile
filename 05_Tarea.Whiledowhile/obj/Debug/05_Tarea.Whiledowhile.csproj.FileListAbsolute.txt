@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\05_Tarea.Whiledowhile\bin\Debug\05_Tarea.Whiledowhile.exe.config
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\05_Tarea.Whiledowhile\bin\Debug\05_Tarea.Whiledowhile.exe
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\05_Tarea.Whiledowhile\bin\Debug\05_Tarea.Whiledowhile.pdb
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\05_Tarea.Whiledowhile\obj\Debug\05_Tarea.Whiledowhile.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\05_Tarea.Whiledowhile\obj\Debug\05_Tarea.Whiledowhile.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\05_Tarea.Whiledowhile\obj\Debug\05_Tarea.Whiledowhile.exe
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\05_Tarea.Whiledowhile\obj\Debug\05_Tarea.Whiledowhile.pdb

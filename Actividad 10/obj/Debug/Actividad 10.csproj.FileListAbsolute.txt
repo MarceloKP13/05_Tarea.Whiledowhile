@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\Actividad 10\bin\Debug\Actividad 10.exe.config
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\Actividad 10\bin\Debug\Actividad 10.exe
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\Actividad 10\bin\Debug\Actividad 10.pdb
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\Actividad 10\obj\Debug\Actividad 10.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\Actividad 10\obj\Debug\Actividad 10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\Actividad 10\obj\Debug\Actividad 10.exe
+C:\Users\user\source\repos\05_Tarea.Whiledowhile\Actividad 10\obj\Debug\Actividad 10.pdb
